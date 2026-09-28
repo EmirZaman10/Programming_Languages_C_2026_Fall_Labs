@@ -1,7 +1,7 @@
 /*
  * Lab 3, Task 1
- * Name: <Emir Zaman>
- * Student ID: <251ADB048>
+ * Name: Emir Zaman
+ * Student ID: 251ADB048
  *
  * Implement array algorithms:
  *   - find minimum value
